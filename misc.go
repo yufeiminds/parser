@@ -609,6 +609,7 @@ var tokenMap = map[string]int{
 	"TRIM":                     trim,
 	"TRUE":                     trueKwd,
 	"TRUNCATE":                 truncate,
+	"TYPE":                     tp,
 	"UNBOUNDED":                unbounded,
 	"UNCOMMITTED":              uncommitted,
 	"UNDEFINED":                undefined,
